@@ -119,10 +119,9 @@
       content: '';
       width: 58px;
       height: 4px;
-      position: absolute;
       top: 26px;
       left: 100%;
-      z-index: -2;
+      z-index: 0;
       opacity: 0.4;
       background: $primary-color;
     }
